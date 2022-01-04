@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! I'm Charles <img src="https://raw.githubusercontent.com/chsyan/chsyan/main/assets/hi.gif" width="25px">
+
+[![Charles' Github Stats](https://github-readme-stats.vercel.app/api?username=chsyan&show_icons=true&theme=tokyonight)](https://github.com/chsyan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chsyan&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/chsyan)
 
 <!--
 **chsyan/chsyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
